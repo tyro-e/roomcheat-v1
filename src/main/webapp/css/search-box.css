@@ -1,0 +1,233 @@
+fieldset{
+    max-width: 880px;
+    margin: 0 auto;
+}
+
+.city-wrapper, .checkin-wrapper, .checkout-wrapper, .guests-wrapper, .search-details{
+    padding: 0 6px 0 0 !important;
+}
+
+.search-cont{
+    padding: 0 0 0 6px !important;
+}
+
+.search-box-container{
+    max-width: 1400px;
+    margin: 0 auto;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    text-align: center;
+    padding: 0;
+    position: relative;
+}
+
+.search-box-cont-inner{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    text-align: center;
+    display: table;
+    width: 100%;
+}
+
+.city-wrapper{
+    position: relative;
+    padding: 1.2em;
+}
+
+.city-label, .checkin-label, .checkout-label, .guests-label{
+    padding-bottom: .5em;
+    color: #777;
+    font-size: 14px;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 700;
+    text-align: left;
+    width: 100%;
+    line-height: normal;
+}
+
+.city-search{
+    color: #999 ;
+    text-indent: 0;
+    width: 100%;
+    font-size: 45px;
+    padding: 6px 12px;
+    border-radius: 3px;
+    border: 1px solid #cfd8dc;
+}
+
+.search-details{
+    margin-top: 25px;
+    display: inline-flex;
+}
+
+.checkin-date-wrapper{
+    width: 100%;
+}
+
+.checkin-date-content, .checkout-date-content{
+    display: inline-flex;
+}
+
+.guests-select{
+    font-size: 23px;
+    margin: 0;
+    border-radius: 3px;
+    line-height: 2.1em;
+    height: 2.1em;
+    color: #999;
+    border: 1px solid #cfd8dc;
+    padding: 6px 0px 6px 2px;
+}
+
+.search-cont{
+    position: relative;
+    padding: 0;
+}
+
+.search-button{
+    font-size: 23px;
+    background-color: #43b988;
+    color: white;
+    width: 95%;
+    float: right;
+}
+
+.search-button:hover{
+    color: white;
+
+}
+
+::-webkit-input-placeholder {
+    color: #999;
+}
+
+::-moz-placeholder {
+    color: #999;
+}
+
+::-ms-placeholder {
+    color: #999;
+}
+
+::placeholder {
+    color: #999;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* BOOKING.COM AFFILIATE SEARCHBOX STYLING */
+
+/*
+
+.hcsb_poweredBy, .hcsb_topTitle {
+    display: none !important;
+}
+
+input{
+    font-size: 45px !important;
+    padding: 5px !important;
+    border-radius: 3px !important;
+    border: 1px solid #cfd8dc !important;
+}
+
+.hcsb_guests, .hcsb_checkinDay, .hcsb_checkinMonth, .hcsb_checkoutDay, .hcsb_checkoutMonth{
+    font-size: 23px !important;
+    color: #999!important;
+}
+
+.hcsb_checkinDateContent img, .hcsb_checkoutDateContent img{
+    /*
+    transform: scale(1.5);
+    margin-left: 5px !important;
+    top: 1.2em !important;
+    */
+
+    /*
+
+    display: none !important;
+}
+
+.hcsb_checkinDay, .hcsb_checkoutDay {
+     /*margin: 0.1em 0.5em 0 !important;*/
+
+     /*
+ }
+
+a.hcsb_searchButton{
+    font-size: 23px !important;
+    padding: 0 0 0 2px !important;
+    height: 2.1em !important;
+    line-height: 2.1em !important;
+    margin-top: 1em !important;
+    width: 30% !important;
+    background-color: #43b988 !important;
+ }
+
+.hcsb_checkinDay, .hcsb_checkinMonth, .hcsb_checkoutDay, .hcsb_checkoutMonth{
+    margin: 0 !important;
+    border-radius: 3px !important;
+}
+
+.hcsb_responsive_desktop .hcsb_checkinDateWrapper, .hcsb_responsive_desktop .hcsb_checkoutDateWrapper{
+    margin-right: 10px !important;
+ }
+
+ .hcsb_guests{
+     margin: 0 !important;
+ }
+
+ .hcsb_container, .hcsb_ac hcsb_responsive, .hcsb_responsive_doublecalendar, .hcsb_responsive_desktop{
+    height: 100% !important;
+ }
+
+ .hcsb_outer{ 
+    max-width: 1400px !important;
+    margin: 0 auto !important;
+    height: 100% !important;
+    top: 0 !important;
+    bottom: 0 !important;
+    text-align: center !important;
+    padding: 0 !important;
+}
+
+ .hcsb_content{
+    position: absolute !important;
+    top: 0 !important;
+    bottom: 0 !important;
+    margin: auto !important;
+    text-align: center !important;
+    display: table !important;
+    width: 100% !important;
+ }
+
+ .hcsb_content fieldset{
+     max-width: 880px !important;
+     margin: 0 auto !important;
+ }
+
+
+@media all and (max-width: 980px){
+    .hcsb_checkinDateWrapper, .hcsb_checkoutDateWrapper, .hcsb_guestsRoomsWrapper {width: 100% !important;}
+    .hcsb_citySearch{font-size: 60px !important; padding: 0 0 0 2px !important;height: 2.1em !important;}
+    .hcsb_guests, .hcsb_checkinDay, .hcsb_checkinMonth, .hcsb_checkoutDay, .hcsb_checkoutMonth{font-size: 50px !important;}
+    label{font-size: 30px !important;}
+    a.hcsb_searchButton{font-size: 45px !important; width:100% !important;}
+}
+
+*/
+
+

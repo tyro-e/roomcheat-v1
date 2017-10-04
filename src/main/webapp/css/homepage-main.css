@@ -1,0 +1,293 @@
+body{
+    margin: 0 !important;
+    height: 100%;
+}
+
+@font-face {
+    font-family: Bebas Neue;
+    src: url(../fonts/BEBAS.TTF);
+}
+
+.ATF{
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+}
+
+.form-control{
+    height: 48px;
+    color: #a2a2a2;
+    font-size: 23px;
+}
+
+
+.section-2{
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+    position: relative;
+}
+
+.content-super{
+    position: relative;
+    height: 100%;
+    max-width: 1050px;
+    margin: auto;
+}
+
+.content-row{
+    position: absolute;
+    bottom: 0;
+    top: -17%;
+    margin: auto;
+    display: table;
+}
+
+.content-col{
+    width: 33% !important;
+    float: left;
+}
+
+.section-2-1{
+    padding: 200px 0 200px 0;
+    background-color: #43b988 !important;
+}
+
+.section-2-2{
+    padding: 5% 0 9% 0;
+    width: 100%;
+    background-color: white !important;
+    overflow: hidden;
+    text-align: center;
+    position: relative;
+}
+
+.section-3{
+    background-image: linear-gradient(180deg, #43b988 0%, #009efd 180%);
+    width: 100%;
+    position: relative;
+    padding-bottom: 7%;
+}
+
+.section-3-container{
+    max-width: 1200px;
+    margin: auto;
+}
+
+.section-3-text{
+    color: white;
+    font-size: 17px;
+}
+
+.section-4{
+    padding: 5% 0 9% 0;
+    width: 100%;
+    background-color: white !important;
+    overflow: hidden;
+    text-align: center;
+    position: relative;
+}
+
+.hotel-image{
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    min-height: 170px;
+    border-radius: 5px;
+    transition: all 0.2s ease;
+    cursor: pointer;
+}
+
+.hotel-image:hover{
+    transform: scale(1.05);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.recommendations-row{
+    max-width: 1100px;
+    margin: auto;
+}
+
+.recommendations-text{
+    color: black;
+    text-align: left;
+}
+
+.recomm-title{
+    font-weight: 600;
+    color: #343f44;
+    margin-top: 12px;
+}
+
+.recomm-country{
+    font-size: 12px;
+    color: grey;
+}
+
+.recom-col{
+    width: 25% !important;
+    float: right;
+}
+
+
+
+
+
+.video-main{
+    width: 100%;
+    height: 100%;
+}
+
+.text-holder{
+    height: 420px;
+    padding: 2% 0 2% 0;
+
+}
+
+.contain{
+    position: absolute;
+    width: 100%;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    display: table;
+    text-align: center;
+}
+
+.construction{
+    font-size: 1px;
+    margin: 0 auto;
+    margin-top: 40px;
+    display: inline-block;
+}
+
+ .text1 {
+    font-family: "Bebas Neue", Arial; 
+    font-size: 60px; 
+    color: #43b988;
+    padding-top: 20px;
+}
+
+ .text2 {
+    font-family: "Bebas Neue", Arial; 
+    font-size: 30px; 
+    color: #43b988;
+    padding-top: 20px;
+}
+
+.title{
+    font-family: "Bebas Neue", Arial; 
+    font-size: 52px; 
+    color: white; 
+}
+
+.title2{
+    font-family: "Bebas Neue", Arial; 
+    font-size: 70px; 
+    color:#343f44;;  
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.title3{
+    font-family: "Bebas Neue", Arial; 
+    font-size: 70px; 
+    color:white;  
+    text-align: center;
+    padding-top: 30px;
+    margin-bottom: 40px;
+}
+
+.text-content{
+    font-size: 20px; 
+    color: #f7f7f7;
+    padding: 0 20px 20px 20px;
+}
+
+.main-icon{
+    height: 90px;
+    background-color: white;
+    border-radius: 100px;
+    padding: 11px;
+}
+
+.destination-row{
+    margin: auto;
+    max-width: 1100px;
+    margin-top: 40px;
+    position: relative;
+}
+
+.destination-row-text{
+    margin-top: 5px;
+    margin: auto;
+    max-width: 1100px;
+}
+
+
+.destination-text{
+    color: #343f44;
+    margin-top: 12px;
+    float: left;
+    font-weight: 600;
+}
+
+.destination-image{
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all .2s ease-in-out;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.destination-image:hover{
+    transform: scale(1.05);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.footer{
+    position: relative !important;
+    background-color:rgb(23, 21, 37);
+}
+
+.col-main{
+    padding: 4% 14% 2% 14%;
+    font-family: "Bebas Neue", Arial; 
+    font-size: 20px; 
+}
+
+.section-3-titles{
+    font-family: "Bebas Neue", Arial; 
+    font-size: 35px; 
+    color: white;
+}
+
+.play-button{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: table;
+    margin: auto;
+    height: 23%;
+    cursor: pointer;
+}
+
+.pause-button{
+    position: absolute;
+    bottom: 16px;
+    left: 38px;
+    display: none;
+    margin: auto;
+    height: 12%;
+    cursor: pointer;
+}
+
+@media all and (max-width: 1024px){
+    .dest-col{width: 33.3%;float: left; padding-bottom: 4%;}
+    .destination-row{padding: 0 14%; }
+    .destination-row-text{display: none;}
+}

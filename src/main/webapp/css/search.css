@@ -1,0 +1,343 @@
+body{
+  height: 100vh;
+  width: 100%;
+  overflow: hidden;
+  padding: 0 !important;
+}
+
+/* this is a big dodgy */
+.navbar{
+  position: static !important; 
+}
+
+.main-container{
+  height: 100vh;
+  width: 100%;
+}
+
+.list-container{
+  height: 100vh;
+  width: 55%;
+  float: left;
+}
+
+.map-container{
+	height: 100vh;
+	width: 45%;
+  float: right;
+}
+
+.filters-container{
+  margin-top: 1%;
+}
+
+.footer{
+  display: none;
+}
+
+#map{
+  z-index: 1;
+  height: 100%;
+  width: 100%;
+}
+
+.gm-style-iw {
+  width: 300px !important;
+  top: 15px !important;
+  left: 0px !important;
+  background-color: #fff;
+  box-shadow: 0 1px 6px rgba(178, 178, 178, 0.6);
+  border: 1px solid rgba(84, 192, 148, 0.35);
+  border-radius: 5px;
+}
+
+.popup-container{
+  max-width: 300px;
+  font-family: 'Work Sans', sans-serif;
+  background-color: white;
+}
+
+.popup-image{
+  width: 100%;
+  height: 175px;
+}
+
+.popup-title{
+  padding: 4px 0;
+}
+
+.popup-body{
+  padding: 10px;
+}
+
+.popup-name{
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.popup-info{
+  padding: 2px 0;
+}
+
+.popup-book{
+  text-align: center;
+  padding: 10px 0 0 0 ;
+}
+.popup-button{
+  background-color: #54c094;
+  color: white;
+  border-radius: 100px;
+  padding: 4px 45px;
+}
+
+.popup-button:hover{
+  color: white;
+}
+
+/* filters bar */ 
+
+
+.filters-wrapper{
+  display: inline-flex;
+  position: relative;
+  width: 100%;
+  height: 50px;
+}
+
+.filters-select{
+  border: none;
+  color: #999999;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  top: 0;
+  display: table;
+  margin: auto;
+}
+
+.slider-handle{
+  background-image: linear-gradient(to bottom, #43b988 0%, #43b988 100%) !important;
+}
+
+.slider-selection{
+  background-image: linear-gradient(to bottom, #cccccc 0%, #cecece 100%) !important;
+}
+
+#dropdownMenuButton{
+  color: #a69999;
+  border-color: #ccc !important;
+  background-color: transparent;
+}
+
+.dropdown-menu{
+  padding:10px !important;
+  font-size: 15px !important;
+}
+
+.checkbox{
+  margin-top: 0 !important;
+}
+
+.form-control{
+  color: #a2a2a2;
+}
+
+.modal-title{
+  text-align: center;
+}
+
+.modal-backdrop{
+  z-index: 0;
+}
+
+.modal-footer{
+  text-align: center;
+}
+
+/* BOOKING MODAL */
+.popup-field-header{
+  padding: 15px 15px;
+  border-bottom: 1px solid #e5e5e5;
+  display: inline-block;
+  width: 100%;
+}
+
+.hotel-title-popup{
+  float: left;
+  font-weight: 600;
+}
+
+.hotel-title-rating{
+  float: right;
+}
+
+.popup-fields{
+  padding: 0 15px;
+}
+
+.popup-field{
+  padding: 10px 0 5px 0;
+  border-top: 1px solid #e5e5e5;
+  display: inline-block;
+  width: 100%;
+}
+
+.popup-field-title{
+  float: left;
+}
+
+.popup-field-text{
+  float: right;
+  color: #54c094;
+}
+
+.popup-times{
+  display: flow-root;
+}
+
+/* FEEDBACK MODAL */
+
+.feedback-btn{
+  font-size: 20px;
+  padding: 12px 22%;
+}
+
+.feedback-image{
+  width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* SEARCH BOX */
+
+.filters-container-inner{
+  max-width: 90%;
+  margin: 0 auto !important;
+}
+
+.form-control{
+  font-size: 18px;
+  height: auto;
+}
+
+.city-wrapper, .checkin-wrapper, .checkout-wrapper, .checkin-day, .checkin-month, .checkout-month, .checkout-day, .guests-wrapper, .search-details{
+    padding: 0 6px 0 0 !important;
+}
+
+.search-box-cont-inner{
+    margin: auto;
+    text-align: center;
+    width: 100%;
+}
+
+.city-wrapper{
+    position: relative;
+    padding: 1.2em;
+}
+
+.city-label, .checkin-label, .checkout-label, .guests-label{
+    color: #777;
+    font-size: 12px;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 700;
+    text-align: left;
+    width: 100%;
+    line-height: normal;
+}
+
+.search-details{
+    margin-top: 5px;
+    display: inline-flex;
+}
+
+.checkin-date-wrapper{
+    width: 100%;
+}
+
+.guests-select, .city-search{
+    font-size: 18px;
+    margin: 0;
+    border-radius: 3px;
+    color: #999;
+    border: 1px solid #cfd8dc;
+    float: left;
+    padding: 6px 12px;
+    width: 100%;
+}
+
+.search-cont{
+    position: relative;
+    padding: 0;
+}
+
+.search-button{
+    background-color: #43b988;
+    color: white;
+    width: 100%;
+    font-size: 17px !important;
+}
+
+.search-button:hover{
+    color: white;
+}
+
+::-webkit-input-placeholder {
+    color: #999;
+}
+
+::-moz-placeholder {
+    color: #999;
+}
+
+::-ms-placeholder {
+    color: #999;
+}
+
+::placeholder {
+    color: #999;
+}
+
+
+/* REMOVE GOOGLE MAPS TEXTS */
+.gmnoprint a, .gmnoprint span {
+    display:none;
+}
+.gmnoprint div {
+    background:none !important;
+}
+
+.gmnoprint:last-child {
+    display: none !important;
+}
+
+a[href^="http://maps.google.com/maps"]{display:none !important}
+a[href^="https://maps.google.com/maps"]{display:none !important}
+
+.gmnoprint a, .gmnoprint span, .gm-style-cc {
+    display:none;
+}
+.gmnoprint div {
+    background:none !important;
+}
+
+.dropdown{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  display: table;
+  margin: auto;
+}

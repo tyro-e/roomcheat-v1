@@ -1,0 +1,811 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCCgEAALBDK1QKUNBvxc0ipKyDhfuMZn94yO-qe1bNlw9dc67qNWKV5u_qhdZfWpyg1g1R9LTHmAilB0pfXKYF5uY7kFxW7PqthiZ4zSnFhVoR61NtIwNd_WNmvzVxPhfgfsbu2ek7k7MY5KZf4iN2rhl4_OqmbUjCdwbB7SMPS0oOY8FMUsRjYOpyy-7A-aGVsxzWxHF1DRM2WLGQNVOZIBL-9_bCVwcMKywcgmhwhxhyPyFafFBD9pUq006kV-TLxrx63aQTeYkyTCKq8-Nvf9YmkO4s-qzklO7IGfQq1x08ovEvfV1f1vnmSYeLwXO68dTq7xv1PPDj86MPD0cLRZbCeT3_nltjtohqoBAVqhK6chF5EhCBTsw7EtriC4PzpzmXxVdIGhRdgVwSQ6UbVMXFXEtsiYSNZuF_bA",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.533441,
+               "lng" : -0.12095
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5348504302915,
+                  "lng" : -0.119601069708498
+               },
+               "southwest" : {
+                  "lat" : 51.5321524697085,
+                  "lng" : -0.122299030291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "d3b751d4aab6c2a54f2e73ec33ffff74cedf5175",
+         "name" : "Central Station",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109522827549301913507/photos\"\u003eTijen Mustafa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAOvXAokVIL5l88fc0OjAJ5-MBRE-OFt3wXnss6hIGTaEF6i2N2fG-c1pPGyROKKOifrw-zjSJ39-t1Rut_e_LUDxg0IGuJteYxiR0ZYM-t8lft1eqVnH8o1-BXs_r-kRREhDZ-MxTnwXzKs5QpnOkyKCrGhQ_ltMUNyM4QE4ZjX2d3Mk6bfmF3Q",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJvU40Vj4bdkgRTd24XULHrKs",
+         "rating" : 4.1,
+         "reference" : "CmRSAAAA0Lq3W1xaWFHsBsFsbJ-Y1YVwtBBOwZQM1dX-KCF49uvnllqb7p-GY2Th41EgforqKDB1rImSoSeSKEjObzsGMdGOad05Dk6crhE-17Z8ntrX9HgSJzSEFq0F7WviBKi0EhAHmS-zQLeu5uccIiuuwpniGhTdssy5o2_w45LE_vmsiondnkSHPw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bar",
+            "night_club",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "37 Wharfdale Road, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5286903,
+               "lng" : -0.127973
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.53009273029149,
+                  "lng" : -0.126474919708498
+               },
+               "southwest" : {
+                  "lat" : 51.52739476970849,
+                  "lng" : -0.129172880291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "05ddb344b003e6f39e198371239c118c503cba48",
+         "name" : "Pullman London St Pancras Hotel",
+         "photos" : [
+            {
+               "height" : 683,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103452991785929319639/photos\"\u003ePullman London St Pancras Hotel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAUNCkLcGzRDS1x1qkfLFQ1DCNWldT6Up59d0f1IkCfXVjxAC6EqbVm39zGG5uPEo84eImbOELPtt6PCzUK64PRdu3Wv9Kc1b2WPDPz1pRss6QVgFZ2sWKCNkSHicAA4SpEhCQYRc6d6nnMtKELO_6gyeVGhQizh_HQbLfyL0s2FpVnpQaOLQqKg",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJkY_rGDsbdkgRq0DIwZ0mWcI",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAAb2u7F3IZ-mim0TJ4XTLW0u4WGT0OqQnpP1qH4pVHdxfdqg8lvDiGjq1U4UD9lvgOD3QD-CtzVDqXxSL1mFO3mCt5ivheqjZoNCD6EkMkyza1vvxW7IlTE_6HS5iXeF6FEhCxbx6Y17jcfdCucD7S12G0GhQXAFv4IMTsnWCBIU6IOzSbaDH6KQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gym",
+            "bar",
+            "spa",
+            "lodging",
+            "health",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "100-110 Euston Road, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4995098,
+               "lng" : -0.1318091
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5009625302915,
+                  "lng" : -0.130461869708498
+               },
+               "southwest" : {
+                  "lat" : 51.4982645697085,
+                  "lng" : -0.133159830291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "fbebb4e151eaf0fbb81d169f646c31e6c81f717f",
+         "name" : "The Sanctuary House Hotel",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115196414891335004546/photos\"\u003eThe Sanctuary House Hotel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAN-QrfDZE6lOUGVIuW4mKWXtr3rP_vg2KgKoigeSov_XjkUnkIzjCEpxlglTJC-BTUkDelQNxG_qDu4Ml9NBWj7eKXEvX4p9OyYT1vRXX1eyZf711MwauP2ygVIHafdRKEhC0pvokFKlC5VRYIJ-JD7kFGhQk1y486dXdlLLayxFvmWaTsvznnA",
+               "width" : 1500
+            }
+         ],
+         "place_id" : "ChIJK_WvedsEdkgRMYAiSk3dxJc",
+         "rating" : 4.1,
+         "reference" : "CmRSAAAA448XnOxj9uRQHw_TQM2EtDpkwkLgdZbxBbVEb1JbidRsl2WS4r76D90kr0WZB046LFMpp1qhBwR1vSJc_IkNPaYFt3TLSQCS2gUwiMyuJVvuSK3tJjusrSD2L3BSOJhiEhBZTWHu-5Ecjzkr5jeU_kKrGhRP96PtfXG5_q9kOI2gZ-o9YbDtUw",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "33 Tothill Street, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.50971790000001,
+               "lng" : -0.1548587
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.51099523029149,
+                  "lng" : -0.1532916
+               },
+               "southwest" : {
+                  "lat" : 51.5082972697085,
+                  "lng" : -0.1564748
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "e28a6179fc6e28f5d08efb0f5577362b94916073",
+         "name" : "Grosvenor House, A JW Marriott Hotel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 422,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115295150284671586468/photos\"\u003eGrosvenor House, A JW Marriott Hotel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANxlDyZELeTitctKaF7tTDuAG8izDtjxU07FDjnWS73fD3vodHgHIByhZ4bV0q-IMF-TqnO1bj212NVtnwxs2QAPcJWdGGhlNCrdTJMnK8zbcwpKqUON8iNSn6ApRsC2GEhBSE1yjDSUsIy7YfnGaBkliGhTu7NYfNZZZqN_Q6zEHxSuoWdezYQ",
+               "width" : 421
+            }
+         ],
+         "place_id" : "ChIJZcFL1TMFdkgRZcciwfX0gr0",
+         "rating" : 4.4,
+         "reference" : "CmRSAAAAH9cCayZostPwB_kKevKJCX5jh1KPTUFTShJgI8Au-EHOwwCLqoPA_qh3SM-rE565sgg4u0psJLg1fx7ogRJKppDMKaO__BIIZL8BIK6V9Tf39zo_rOKpE0Q6xkf3FzF6EhABUwQ3Ousj_wiFSVfas4CVGhT6Ig1Wc7gZdnnYNvGa7ZgnIhVe4g",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "86-90 Park Lane, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.49195109999999,
+               "lng" : -0.1918793
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4932485302915,
+                  "lng" : -0.190452619708498
+               },
+               "southwest" : {
+                  "lat" : 51.4905505697085,
+                  "lng" : -0.193150580291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "3c5818f1f10c6eec44243ecc7e811c3c16facd64",
+         "name" : "Hotel Indigo London - Kensington",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 563,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107680427286308972307/photos\"\u003eHotel Indigo London - Kensington\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAATNcSpBmphpW-UtGTQG8byTXmId1i_KQjJLGKJqW7_UYH1p8RGlnKhN-CCaIjBEl5jUB1oPZEhutH7w_ktp31A0ArOe0VGu2sFvnWGDgpHaUmJCKxmxiUt5I45Lk6ojoeEhAr9PhM-Kp8z9p_wAHWapzeGhR04d-78stHJA9ZUzFPJTzPFYmQBQ",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJX8ECHYsPdkgR_-dudcyB2eY",
+         "rating" : 4.6,
+         "reference" : "CmRSAAAATb_veACu4J5cccRK06oohQFQ_wEZ4wSs-aqXNhDv19nY6vWk5Umc5OLWm5857Fph3xpHCkrQGz91i5zqFR036UE80L8oQjM2xtn5hNicy3Ir0osYD5N_Pi49JE3WZSMlEhCs0d5te0FQQla72-Bkh5hmGhSXZAX_7VsXe7pRbhvz_muzmvIIKw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "34-44 Barkston Gardens, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.504439,
+               "lng" : -0.149911
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5056628302915,
+                  "lng" : -0.148657219708498
+               },
+               "southwest" : {
+                  "lat" : 51.5029648697085,
+                  "lng" : -0.151355180291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "e761b1d79e50d105ca7a3d30006da6eac25b805f",
+         "name" : "Four Seasons Hotel London at Park Lane",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1287,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103779018958020482083/photos\"\u003eFour Seasons Hotel London at Park Lane\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANfAEQHQi7dhTPFSJhMs4WzzQ_dDOYMnNepe5b6m9jaC3ztCjSDzQGOEs7e5QWeBtQtwAFfgyuWddIKqLhs2UJanwFiNPOn0fW4MvKpzQscelJNOeZIE5Yzy245kTWhn7EhA0oxWCUfHhuCzndYqPXpNDGhS64AuwBsyOy36hPHUM2MtcqKOIfw",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJPTReYyUFdkgRFxvvBDglXXE",
+         "rating" : 4.6,
+         "reference" : "CmRRAAAAue491wEPq4rTSSuFb48GRSi27q6Kes78S9ieJz26xsj5yDd0-Ca8OzhV8i5rLuQO8TZdZfE_y7TrSsl4BJygiHxzXkKZx9wVAioylPClgt5zu--j8sI7Vy2qk2rZd_BXEhA9BZVAL8nB-S_r5qK5BwkGGhT1GExvnJy0PzULYye5UdpKzOiWzg",
+         "scope" : "GOOGLE",
+         "types" : [ "spa", "lodging", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "Hamilton Place, Park Lane, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5233178,
+               "lng" : -0.1744884
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5246173302915,
+                  "lng" : -0.173229719708498
+               },
+               "southwest" : {
+                  "lat" : 51.5219193697085,
+                  "lng" : -0.175927680291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "21d3f4f6b59429b8acd722bb5aec0073f4c5aa33",
+         "name" : "Comfort Inn Edgware Road London",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113966983439218053950/photos\"\u003eAdam Jones\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYt_ymYvN_4s9E0AQQKdsbx4nABZKoxmVUvdOuuKGJyg4oEDp2_OfusfJfFBTvtcTATipTG55oe1ux0m_j5pw-pnQoSb9y6oFkK5ACUo4OpOLBqJRSP0OfV_pd_hpcjh1EhBpsRFwMAzZeygpo2ZgW71-GhTIK4PjQnVy6Tc3CQ85-F0caZMeTQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJvW08UrAadkgRhSkyqlsJf2g",
+         "rating" : 3.6,
+         "reference" : "CmRRAAAAkDnJT0z4GuE9eTDoYxVFhJI332V0fjzFPHenyqCuK7KovBhsHAngePB-Zc9Z8qE8J8ZiPCYsrfXlz_pbGIth3zOzlYyoBMzmv68IQ56s1u0hWMMt6ZCcEy0Z4MempkFBEhBrrjGR-vYQ7d9rBYjfzWSJGhR33b0Jy87tt4FyvMSbG8ifX_2Wig",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "450 Edgware Road, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5300501,
+               "lng" : -0.1213894
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5313546302915,
+                  "lng" : -0.119992219708498
+               },
+               "southwest" : {
+                  "lat" : 51.5286566697085,
+                  "lng" : -0.122690180291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "1eeef082584fb98a93e287b4ee1013d82f1e0e5f",
+         "name" : "Comfort Inn Kings Cross",
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105354190692231820778/photos\"\u003eComfort Inn Kings Cross\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALP3Ovhv9WZhzFGGoWTWfdo2MyfJwi_gAmdsfA7IVbkQvvoV0rERfEQTfZ9isF-DSZ8iTTLmW0FVJI4ZeQQvOo2vsvUHHfhvkk25GPZ6lvF6dCCqoYdhVvSxiBbxK7OTMEhAwaFhJ-CSGBnzHclr1RIqmGhTIH4KhQ8Ctkou29ItS0W7BRZ0TVQ",
+               "width" : 426
+            }
+         ],
+         "place_id" : "ChIJ7ZmUOTkbdkgRShUVsql6GSY",
+         "rating" : 3.4,
+         "reference" : "CmRRAAAAgFqmPGI4uwlfZPMbJNSOxV3Yf2dfcqFfCrVURzfefNLg90Kwyt54SjGjFuoY13ttOrJZq7Hg_SzNg30W1fTElGfTpvw2XaIJKCoCMUk3oFYS0QLgERE8O1SQ7w2OlBJDEhB2JZD-yg5s8Nr0EUNJ17xgGhQldQxDHEbAPSagu-orAZ2CfBdozw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "2-5 Saint Chad's Street, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4909296,
+               "lng" : -0.1389835
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4922236302915,
+                  "lng" : -0.137706119708498
+               },
+               "southwest" : {
+                  "lat" : 51.4895256697085,
+                  "lng" : -0.140404080291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "f59a1ddd197fd0a220553a9aa876488956a64fb2",
+         "name" : "Comfort Inn London - Westminster",
+         "photos" : [
+            {
+               "height" : 1844,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109638913022175671182/photos\"\u003eComfort Inn London - Westminster\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACz-9IBU3LZQ_E_o8zvIELVqsKVOsXGZIRKsT9OG2ELiChEMyQR5UJbvhVOsaR66Lnstd_s56jpc0vdAKkz8gO40fygXs-wr1kW-IWDdzpUXMPPwjkuTWnF7MaAXRESKhEhDy-hInjftLyx1qox6pwV0lGhRfDoDRn2Bsx_m-6MU7HTvOY-jipw",
+               "width" : 2860
+            }
+         ],
+         "place_id" : "ChIJg7VNseEEdkgRlVQOcZaNB50",
+         "rating" : 3,
+         "reference" : "CmRSAAAAxXC9Tg6pzld2fwfohh7lBasRLlkeg2Eq8i0e_11lVQt2QDUrsbTQ1Jqbpoolb6jmyKYCITiJuD2cEhFHSh02GghADS_z-JRq1ezOc3QEypNZ-UESY1VlyXlGP6tS1pgIEhD1l0mlo3OHZQHF2QXX5R5YGhTLFC6RQ8BFUFwGrLfTzke8S0aKSw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "39 Belgrave Road, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.51093110000001,
+               "lng" : -0.1851864
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5122912302915,
+                  "lng" : -0.183745519708498
+               },
+               "southwest" : {
+                  "lat" : 51.5095932697085,
+                  "lng" : -0.186443480291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "c03972937130150e4ff6964401718128b1b3bd8a",
+         "name" : "Comfort Inn Hyde Park",
+         "photos" : [
+            {
+               "height" : 3840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114821813254378393317/photos\"\u003eLuís Matos\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAObL6shEw0ODsvZFXrkHjBjrmBYocAaYb4y-rHW2XgrDjdpXIq5qVUv9gyyHbNQ_NUmxw2dgPd8dD2q1mah6HNJ78-GIH5xkSU7ENK1022oKr0BClHIG4QhxPieoFOOO-EhCFohzEU-Dio8JsBtBv7HmgGhQ7owvn_mVVplwNpAT3wrDzQP63wQ",
+               "width" : 2160
+            }
+         ],
+         "place_id" : "ChIJ01sXnVMFdkgREdSSP3bKhJY",
+         "rating" : 3.8,
+         "reference" : "CmRSAAAAo6bDTcLCoU10UGegoSEHHfK2RC1tJrIDK-chLHlvRycNNq1WNSLvy4ZKvwo3Wq0cEC00_1RJwv0QrxJHZlU5mmPTPieZos96Mik5RP7A2J5FHrFMiatdA8WpcYcKih5xEhBcAR5Oc25e6GbSOO1uRty3GhTJmyCaI0QCvUpZN0SbPE-vllhhKA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "73 Queensborough Terrace, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.499452,
+               "lng" : -0.132925
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.50084288029149,
+                  "lng" : -0.131646369708498
+               },
+               "southwest" : {
+                  "lat" : 51.49814491970849,
+                  "lng" : -0.134344330291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "1ff64c7f59b19ea8017ecf302df7f9dc9e1074aa",
+         "name" : "Conrad London St. James",
+         "photos" : [
+            {
+               "height" : 578,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104423145682503057243/photos\"\u003eConrad London St. James\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAE6mtRPP6dO8tGdwgJSK7IcXHjKNBpIYtL3rzTBcfDLaj5b5pfBMy0oKEbxJ8FObe3FTV1mLnlMrsD1lqbV6y-TZiMzfxISl6OYpYGBNF-3CHExNr2ROiqLBQqPxMnaROEhDRxTltujRKO5otCTttn004GhQwSM1QT1Cq4YQm6TIrGAYFmuRwJg",
+               "width" : 1006
+            }
+         ],
+         "place_id" : "ChIJvXfei9sEdkgRcVqTBHgAWVU",
+         "rating" : 4.5,
+         "reference" : "CmRRAAAAAUUunTE6RP0qq_4ppFEEgGXSajwY3Efp10tWzpEKAF4tDUYQ8FlhOfpTBvOOQNspHqoL9TpgK1bOJBfKVbEqgESUbqgfL5G9qSSCDYTfgrNK91j8z0wJdmAzMs2oIvoZEhDIg9UO7klFLtokcz3aHGx9GhRaTy-Sow0XA6XHmjIxoXG_74t2VA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "22-28 Broadway, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.473953,
+               "lng" : -0.07540400000000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4754870302915,
+                  "lng" : -0.07402801970849798
+               },
+               "southwest" : {
+                  "lat" : 51.4727890697085,
+                  "lng" : -0.07672598029150204
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "1e14cb8b45cd8a876d8b65a32ede7b79af715e0a",
+         "name" : "BEST WESTERN London Peckham Hotel",
+         "photos" : [
+            {
+               "height" : 2470,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105633257429946267926/photos\"\u003eBEST WESTERN London Peckham Hotel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAN7ulYWOr5OwT8w4YQumRJ_h6w8AmIW-x4A0FZN1kAFrMsgcwayig7Y2mMwikT8FBHV8FoAZBQ5AOTGtTgdbm6QOO7C9SJuncgJUYRVtLNEbvbTcuGluKictiIgT4sOJeEhD7Epal9Qyk17BQ9b74bRRfGhTQUUErDwBwhLFMtT5FNWY9-Zbjmw",
+               "width" : 4481
+            }
+         ],
+         "place_id" : "ChIJqzsk3nUDdkgRMUnpLBTjcf4",
+         "rating" : 3.6,
+         "reference" : "CmRSAAAAnSrA5NTEyMYBpYU5m3yWWp2eWXUIb38TN1CaxhUxCeKAtTAdfdllWwK6K3kwD9X3ZO6nUNQF8tq9NGb3Sk1rYQJmzyhoqrBc2eqdDxzoMDtMpS86X3MEQ8FhL3DYeGwBEhCrdC8MFeDbdEyCx2XPtfVJGhSJ34o6l3-z5Lk5IWdNsm5iCvFteQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "110 Peckham Road, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.52893580000001,
+               "lng" : -0.1232357
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5302503302915,
+                  "lng" : -0.121985619708498
+               },
+               "southwest" : {
+                  "lat" : 51.52755236970851,
+                  "lng" : -0.124683580291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "5808439c4880c0ce3a8d97fb978243276484f8d7",
+         "name" : "Comfort Inn & Suites Kings Cross St. Pancras",
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110169262666114801213/photos\"\u003eComfort Inn &amp; Suites Kings Cross St. Pancras\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA9GH5aD7-YUBEvg_KjoiI9GQyNi957j1ukKsp0pVhTywPu20-DBrML5WN7xo2KNyDGJHQE6Ihs-baXMsTcklfExhV1S7U9QgG7xOjW26pGl-UyzNcRC3imqYK6PkWwxkaEhCo1y4eSAnVPEA3nHYX8GNFGhR2glo5PksCGwlcHgdMhpkjL2V9YQ",
+               "width" : 426
+            }
+         ],
+         "place_id" : "ChIJa-w3YzkbdkgRKQpNt34GQSE",
+         "rating" : 3.8,
+         "reference" : "CmRRAAAAjKZNIVS9sXxqjJa95E2Wx95q-gFp3WLZs6ij8Fr9htwIZ5DC2SDYyYDLt609ldompkJDEf1puqAkqoPJpgWSmaDF-JN-jjlwpDtG59lY2vyWUYaeUb-Z3cisFhc0TcjAEhBdUl5SNcqVEcdS1rPjhuRzGhQwSrk2pD2TLLqHOS4VOmGbekqJIA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "31-33 Argyle Street, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.504575,
+               "lng" : -0.08267500000000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5058706302915,
+                  "lng" : -0.08134066970849796
+               },
+               "southwest" : {
+                  "lat" : 51.5031726697085,
+                  "lng" : -0.08403863029150203
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "dd674d53a127b3fb9f396e81311da77e6fe28237",
+         "name" : "Hilton London Tower Bridge",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105612670614630819677/photos\"\u003eHilton London Tower Bridge\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAzMbaGS1FlyFyS9yDsduuGK5fJhxmBzXlhDctlZGfZCBzCCdUSVe4LIzAJ5liRNFfCbOr90sXw4AfceTxjsGXoPMFY3yR0I4cLmhcbRNN2jalOHhkqu2jSVAXImEN0InxEhAopC33T640xLFO1nboGFTXGhSYZurUOJngBmLHJF1afmdxW7lWLA",
+               "width" : 5754
+            }
+         ],
+         "place_id" : "ChIJry4CB1ADdkgRrKALccYikP8",
+         "rating" : 4.3,
+         "reference" : "CmRSAAAAz61P1MZ7B7fkaPwvrFkSp88TJsn8Jj38c9aY-e86DwLixXnyp6hyb_G7u1wTIQBkU-REtisfN78-yMhtWoHsvcdSLjs_dNKRSMWxvHfTMKvDnnljDRqHs1DXIpn0HzidEhDzu2AjM13wvMYElHesJorJGhQ6wu2K1rC80Xsnw6njsDYAsmt5Ng",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "lodging", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "5 More London Place, Tooley Street, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4916126,
+               "lng" : -0.1415696
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.49301903029149,
+                  "lng" : -0.140251169708498
+               },
+               "southwest" : {
+                  "lat" : 51.4903210697085,
+                  "lng" : -0.142949130291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "846be3ea0afc5a415f267dc3c3498bfd1748de7e",
+         "name" : "Best Western Victoria Palace",
+         "photos" : [
+            {
+               "height" : 529,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107824450526892623973/photos\"\u003eBest Western Victoria Palace\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAb066f5kK4nCkxaMqIRkkKNasjfd0FEPH4hALUepEtnY3d1ELGsiW-VgYdyiRtuziq25Nu8lF3LWOr4Nk5XNIxDX_0wgeQsq53xETUFpv-7ibBEfnflRjM0KSxc8fbVQeEhC-qrJkvfBuyDjAb3L9RXmxGhQmA7P396hD_F48eDc2Q2UU_dLvkg",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJuZIdzh8FdkgR0D7ObAPz_Qw",
+         "rating" : 3.7,
+         "reference" : "CmRRAAAAy3L7Y3B7xBB55xle5yYJuYnEzhthcJqmWzcEhR0Sd4UWAGtqYeAw528wUDUJlmTrQpI__SIEqi1huf-HejR9MmHhKeDiURkB5KFnipovJ-1HWlX0VhtGZ98nEUTZI-MuEhDLSsb5dHyZd9eyl2XNxxS-GhRkJ43neRbd0QtXxYY1O0zeuVmVfQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "60-64 Warwick Way, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.510102,
+               "lng" : -0.07797999999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5114267302915,
+                  "lng" : -0.07659151970849797
+               },
+               "southwest" : {
+                  "lat" : 51.5087287697085,
+                  "lng" : -0.07928948029150203
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "68afdc566ed5218e51d9698b015cc419f30c1b37",
+         "name" : "Four Seasons Hotel London at Ten Trinity Square",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105270061507041306044/photos\"\u003eFour Seasons Hotel London at Ten Trinity Square\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVBgoUtXZNXjhnqi9FSRWQzzqpXEWKYaS4T8e-kxpcCIlKSckbaMmyYvkWzyMpnA0_nFu_3WHDo48xxTPTO1cOWPY56zN0iszOKyKZCGzCgtc0vuHuBfUTKBfNxwFJ4dXEhCA0iyzm3Oyn7wDz1Vem1MQGhQI_jq5mhwHXrG7dJcc6EcLCPE_Bg",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJ7zYiIkwDdkgR0ik2_MUMEbk",
+         "rating" : 4.7,
+         "reference" : "CmRSAAAAWQp7SC_6PZe7yOkt3DaVSiFVDBg9qNKjCxZdNI0kfPbK9sFrYSTg8rKBbDENkEuPTbx_kBwiOD6FLoDB2T4ITULzJAuotAB0BZS9JB8nOhdmDCaSl-AFh7WoVY6tE7r8EhBrymB9qQcS89amyjQaez-cGhTvxaQtzgr2pKi2zhTmVEmiSq3qPQ",
+         "scope" : "GOOGLE",
+         "types" : [ "spa", "lodging", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "10 Trinity Square, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.50698300000001,
+               "lng" : -0.12601
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5084208802915,
+                  "lng" : -0.124618869708498
+               },
+               "southwest" : {
+                  "lat" : 51.5057229197085,
+                  "lng" : -0.127316830291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "ad22695d9e5f41831b61729b44f1da2817910b68",
+         "name" : "Club Quarters Hotel, Trafalgar Square",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 6752,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104791046732880218123/photos\"\u003eClub Quarters Hotel, Trafalgar Square\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAClxImBRADDlUh3G8ipofLuVIMUpucdBQ5DiqNUX3T_51rGGXX524g8fkjclTmVuY0D-fkXD2ed2_Y_s5Nve19QxKD4WH6kFPxjInzBks1bd-6k0Mn3-977Jn4OYi48REhCQmnFHVG0FUwuhTfifl11dGhSNtZAuTTElRTHQ0yYoAtbG6gRRiw",
+               "width" : 8665
+            }
+         ],
+         "place_id" : "ChIJkW6HU84EdkgRh5r5Qd4Z0Rc",
+         "rating" : 4.2,
+         "reference" : "CmRRAAAAuNmGafSNNYr_uPw0gh-IiZSq68XLQdFqEDp9hIw__DhjMEiYtJl4kMpYHvn1yO9rv2NiFQtxh21U_cd5ToSatymJ3cjWMViDkjBnMtVQ01W0ilPaeegrQu6wyhhwq_SYEhCuaQ-t_RSd2IuRW66kQuz5GhSexak5-8w9AIX6hR9xaYxMVDWsFg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "8 Northumberland Avenue, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.51302499999999,
+               "lng" : -0.157854
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5142785302915,
+                  "lng" : -0.156607869708498
+               },
+               "southwest" : {
+                  "lat" : 51.5115805697085,
+                  "lng" : -0.159305830291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "b094d5dc095a34d424207e4be32daa519cb6d64a",
+         "name" : "London Marriott Hotel Park Lane",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 423,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105596369792940187546/photos\"\u003eLondon Marriott Hotel Park Lane\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAu_GoXsr1VgaIkrlWgOLLok54letCN8g5bj8b7wKMyu2ck1UXRVjSZadGhK4LYF1R8P1x0ubQjblbDsAtFNMwPsoDlWiqzfBy9Ns1ktALhWcNWOsJw2UloG8lII1Q7RltEhAIsBAnslkUBLVqcwVxmWAsGhQV-nVCVKbiCi9TUj8XB5KLmGoklA",
+               "width" : 610
+            }
+         ],
+         "place_id" : "ChIJx_BjgDEFdkgRmYzr6cy2_5M",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAA4KLZVc-HMDz-sDtwzIao0LWr-0_SO43XywdM4oTENIKcsPjOBISDREVxdgQ7LlDZqUc7fPK6eiU6pXDxTr3O5IWEUih-e565XJe2D8vSpxOYehPBsUGo-HfS0Yu24F_rEhDG5HrhpaVvTipcrEoFt6OhGhRTG91oOmO3qt16_jd8925APqB4lg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "140 Park Lane, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4923774,
+               "lng" : -0.1911824
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4936777302915,
+                  "lng" : -0.189734969708498
+               },
+               "southwest" : {
+                  "lat" : 51.4909797697085,
+                  "lng" : -0.192432930291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "0e4e3399bc1930dfe3e34eba7aeb64f8e51d0fc7",
+         "name" : "Best Western Burns Hotel",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117925179885514516876/photos\"\u003eArfar Choudhury\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA6ibGrGIuFTM7w3LofPO5ciLOOSnW-mbBWMSORFNnRzD-5Am-70XNdOhetxMd0Z-7Pa2TqlxRwStg39TMfEcoKOwL6TvLbVNm-LD47hFK0lbmDcy8VVce0C8WBRbXC-TuEhBgCSttmhtY5jFUzgg55iy-GhTtzxYDhImhqFJIxd3KaTkjFd64Pw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJf42rGYsPdkgRfmENQ-XqGyE",
+         "rating" : 3.8,
+         "reference" : "CmRRAAAAwYeC6c9NijeyS-Pwa3fL3r2EyeC0dqLXwa7ALT9mVnxdYhkTIbsna7HeVzJ9DLirVdrBy9hXpmuvZVQSfeG4AvwvUilQEEjHa8QsPKpmHBPx7TGgN131I5OOmgOVqJ7ZEhBpl_CLgXltpzZUKtRSJmLXGhSqFmNW_tFsKJ1cNTMW5iiRbjK_FQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "18-26 Barkston Gardens, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4943981,
+               "lng" : -0.1185885
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.49597568029149,
+                  "lng" : -0.117385069708498
+               },
+               "southwest" : {
+                  "lat" : 51.49327771970849,
+                  "lng" : -0.120083030291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "427593f6d5e37d578bac04bbc8d0d8a6606a48f6",
+         "name" : "Novotel London Waterloo Hotel",
+         "photos" : [
+            {
+               "height" : 683,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105983158081689159595/photos\"\u003eNovotel London Waterloo Hotel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAw1qupjmKXT7FAjNGlWVuZrxNNZ3yUxSdaGIDdW-Kb8nxui6Yl8v9BH5E6i5bdketf6vhHVcXtoUoXJiEThnDsGukPI0SLzRmWEI1d1OZU2Rze31tcUiirGbLuECMYI6wEhBRRa2Y2Dk5hLWhYzmY4v3YGhRSIHfQnPB-w8uquq8RAWaQwL_LGg",
+               "width" : 684
+            }
+         ],
+         "place_id" : "ChIJAax3EcAEdkgR0m_aZjCm_94",
+         "rating" : 4.4,
+         "reference" : "CmRSAAAATytwE7NNo7QhQ6sUo93UvoSUsgoovcxXBuLvoLk-RJ3Q-Ih-m7LmDC4LLf4Tn3GoZxz3sQsd3QWEqYuQGnN0NOfOzvlryX6RM5M9B9n_rNvj_YZKRgxoFqAG_ykXUMDfEhAnVUfYKUXyxQypeMruV72dGhRfIPH2KPcABEL6B7Q8eMeGFoGdqQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "gym",
+            "bar",
+            "spa",
+            "lodging",
+            "health",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "113 Lambeth Road, London"
+      }
+   ],
+   "status" : "OK"
+}

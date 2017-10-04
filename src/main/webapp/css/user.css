@@ -1,0 +1,214 @@
+body{
+  overflow: hidden;
+}
+
+.navbar{
+  border-bottom: none !important;
+  background-color: transparent !important;
+}
+
+a{
+  color: white !important;
+}
+
+.footer{
+  display: none;
+}
+
+
+
+/* LOGIN / REGISTER */
+
+.login-control{
+  color: red !important;
+  padding: 4px 15px;
+}
+
+.test{
+  color: red;
+  text-transform: uppercase;
+}
+
+.test:active{
+  color: white !important;
+}
+
+.test:hover{
+  color: white !important;
+}
+
+.notif{
+  text-align: center;
+  position: absolute;    
+  bottom: 0;
+  color: red;
+  left: 0;
+  right: 0;
+}
+
+.login-form{
+  position: absolute !important;
+  bottom: 30px;
+  top: 0;
+  display: table;
+  margin: auto;
+  left: 0;
+  right: 0;
+  width: 100%;
+  padding-left: 0;
+  padding-right: 0;
+  text-align: center;
+  height: auto !important;
+}
+
+.form-horizontal{
+  max-width: 450px;
+  margin: auto;
+}
+
+.login-field{
+  border-radius: 0;
+  background-color: transparent;
+  border-bottom: 2px solid white;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  font-size: 47px;
+  color: white;
+  width: 100%;
+  margin-bottom: 1px;
+  font-weight: 600;
+  outline: none;
+}
+
+#password{
+  color: #343f44 !important;
+}
+
+.login-btn{
+  background-color: #343f44;
+  border: none;
+  color: white;
+  border-radius: 4px !important;
+  text-align: center;
+  margin: 0 auto;
+  width: 170px;
+  margin-top: 40px;
+}
+
+.login-btn:hover{
+  background-color: white;
+  color:  #343f44;
+}
+
+.register-notif{
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
+  margin-top: 5%;
+  color: white;
+}
+
+*::-webkit-input-placeholder {
+    color: rgba(255,255,255,0.7);
+}
+
+#one, #two, #three{
+  height: 100vh; 
+  width: 100vw;
+  position: relative;
+  float: left;
+}
+
+.login-container{
+  /* increase this as you want to extend the onboarding Q's process */
+  width: 7000px;
+}
+
+#one{
+  position: relative;
+  background-color: #43b988;
+}
+
+#two {
+  background-color: #e2af20;
+}
+#three {
+  background-color: rgba(60, 53, 175, 0.89);
+}
+
+
+
+.preferences-question{
+  float: left;
+  text-align: center;
+  margin: auto;
+  color: white;
+  font-weight: 600;
+}
+
+
+#bottom-container {
+  position: fixed;
+  width: 100vw;
+  text-align: center;
+  bottom: 7%;
+}
+
+#percentage {
+  width: 448px;
+  height: 8px;
+  margin: auto;
+  position: relative;
+  margin-top: 25px;
+}
+
+.progressbar-text{
+  color: white !important;
+}
+
+.arrow-holder{
+  width: 100%;
+}
+
+.arrow{
+  height: 35px;
+}
+
+.arrow-back{
+  float: left;
+  margin: 25px;
+  cursor: pointer;
+}
+
+.arrow-forward{
+  float: right;
+  margin: 25px;
+  cursor: pointer;
+  -webkit-animation: pulse 2s linear infinite;
+  animation: pulse 2s linear infinite;
+}
+
+@-webkit-keyframes pulse {
+  0% {
+   -webkit-transform: scale(1, 1);
+  }
+   50% {
+   -webkit-transform: scale(1.2, 1.2);
+  }
+   100% {
+   -webkit-transform: scale(1, 1);
+  };
+}
+
+@keyframes pulse {
+  0% {
+   transform: scale(1, 1);
+  }
+   50% {
+   transform: scale(1.2, 1.2);
+  }
+   100% {
+  transform: scale(1, 1);
+  };
+}
